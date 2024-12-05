@@ -1,4 +1,6 @@
-/* 
+/* ----------------------
+-------------------------
+
 CSS TABLE OF CONTENTS
 
 # GLOBAL STYLES
@@ -35,7 +37,7 @@ CSS TABLE OF CONTENTS
 # CUSTOM STYLING
 
 -------------------------
----------------------- */ */
+---------------------- */
 
 /* -------------------- */
 /* --  GLOBAL STYLES -- */
@@ -653,4 +655,3 @@ section {
 html {
     scroll-behavior: smooth;
 }
-
