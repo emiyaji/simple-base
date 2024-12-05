@@ -1,2 +1,4 @@
 # simple-base
-a site 
+a site
+
+[view my site](https://emiyaji.github.io/studentsite/simple-base/)
